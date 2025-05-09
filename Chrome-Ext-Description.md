@@ -1,3 +1,5 @@
+# Important: this extantion is collecting and rpeorting on all user activities
+
 This Javascript code is a sophisticated background script for a web extension, integrating a wide array of functionalities. Here's a detailed breakdown:
 
 ### Core Architecture & Utilities
